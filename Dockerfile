@@ -1,4 +1,4 @@
-FROM fedora:30
+FROM fedora:29
 LABEL maintainer="caseraw"
 
 ENV container docker
